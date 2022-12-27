@@ -2,6 +2,9 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
+      <FullPath>D:\visual studio labs\lab 5.0\x64\Debug\UnitTest5.0.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
       <FullPath>D:\visual studio labs\lab 5.0\x64\Debug\lab 5.0.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
